@@ -1,6 +1,58 @@
 # ECE228-Group37
----
 
+---
+## Table of Content
+- [Introduction](#introduction)
+- [Methodology](#methodology)
+- [Data Source](#datasource)
+- [Code](#code)
+- [File Structure](#filestructure)
+- [Require Packages](#requirepackages)
+- [Contributors](#contributors)
+- [Citation](#citation)
+
+
+<a name="introduction"></a>
+## Introduction
+
+sdsdsds
+
+
+
+<a name="methodology"></a>
+## Methodology
+
+大苏打实打实
+
+
+
+<a name="datasource"></a>
+## Data Scource
+
+实打实打算
+
+
+
+
+<a name="code"></a>
+## Code
+
+### Data Analysis
+- [pre_processing.py](../master/src/pre_processing.py) : Data loading, cleaning and pre-processing
+- [analysis.py](../master/visualization/analysis.py) : Analysis tools, plots and visualizations
+### Feature Extraction
+- [feature_extraction.py](src/feature_extraction.py) : Feature extraction and preparing the data for ML models
+### Prediction
+- [prediction.py](src/prediction.py) : Prediction on the test data using Logistic Reg., XGBoost, and Random Forest models
+### Dashboard
+- [dashboard.py](dashboard.py) : Dash app of the product, includes all plots and capabilities of the dashboard
+### Test Coverage Report 
+- [generate_coverage_report.py](test/generate_coverage_report.py) : Generates [Test Coverage Report](test_coverage_report.pdf). Developed and tested on MacOS 10.15.3 (running on any other OS may require minor changes to the script).
+
+
+
+
+<a name="filestructure"></a>
 ## File Structure
 
 ```
@@ -54,12 +106,10 @@
 ├── ECE229-presentation.pdf
 └──  util.py
 ```
----
 
-
----
-
+<a name="requirepackages"></a>
 ## Require Packages
+
 - Python >=3.7
 - dash
 - dash-renderer
@@ -80,4 +130,11 @@
 
 Run pip install -r requirements.txt to set up your computer. 
 
----
+
+
+<a name="contributors"></a>
+## Contributors
+
+
+<a name="citation"></a>
+## Citation
