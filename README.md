@@ -55,3 +55,29 @@
 └──  util.py
 ```
 ---
+
+
+---
+
+## Require Packages
+- Python >=3.7
+- dash
+- dash-renderer
+- dash-core-components
+- dash-html-components
+- dash-table
+- plotly
+- numpy
+- pandas
+- scipy
+- matplotlib
+- seaborn
+- xgboost
+- scikit-learn
+- coverage
+- pytest
+- joblib
+
+Run pip install -r requirements.txt to set up your computer. 
+
+---
