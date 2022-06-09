@@ -31,8 +31,7 @@ All the results we got is showing below:
 <a name="datasource"></a>
 ## Data Scource
 We used the HAM10000 dataset which contains seven different types of the skin lesion, which are:
-- Actinic keratoses and intraepithelial carcinoma 
-- Bowen's disease (akiec)
+- Actinic keratoses (akiec)
 - basal cell carcinoma (bcc)
 - benign keratosis (bkl)
 - dermatofibroma (df)
