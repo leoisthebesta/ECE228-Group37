@@ -5,12 +5,12 @@
 - [Introduction](#introduction)
 - [Methodology and Results](#methodologyandresults)
 - [Data Source](#datasource)
-- [Code](#code)
+- [Code & Result Plots](#code)
 - [File Structure](#filestructure)
 - [Require Packages](#requirepackages)
 - [How to Run Codes to Generate Same Result](#run)
 - [Contributors](#contributors)
-- [Citation](#citation)
+
 
 
 <a name="introduction"></a>
@@ -137,5 +137,3 @@ Run pip install -r requirements.txt to set up your computer.
 ## Contributors
 
 
-<a name="citation"></a>
-## Citation
