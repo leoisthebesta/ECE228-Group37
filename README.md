@@ -64,14 +64,15 @@ Since the dataset is so large, even a zip file can not be uploaded to Github. Pl
 - [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : ResNet50 Transfer Learning
 - [VGG16_TransferLearning.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : VGG16 Transfer Learning
 ### Result Plots
-- [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : ResNet50 Transfer Learning Accuracy Plot
-- [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : ResNet50 Transfer Learning Loss Plot
+- [Res50_T_a.png](Results/Res50_T_a.png) : ResNet50 Transfer Learning Accuracy Plot
+- [Res50_T_l.png](Results/Res50_T_a.png) : ResNet50 Transfer Learning Loss Plot
 - [Res50_S_acc.png](Results/Res50_S_acc.png) : ResNet50 build from scratch Accuracy Plot
 - [Res50_S_loss.png](Results/Res50_S_loss.png) : ResNet50 build from scratch Loss Plot
-- [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : VGG16 Transfer Learning Accuracy Plot
-- [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : VGG16 Transfer Learning Loss Plot
-- [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : VGG16 build from scratch Accuracy Plot
-- [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : VGG16 build from scratch Loss Plot
+- [V16_tran_acurracy.png](Results/V16_tran_acurracy.png) : VGG16 Transfer Learning Accuracy Plot
+- [V16_tran_loss.png](Results/V16_tran_loss.png) : VGG16 Transfer Learning Loss Plot
+- [VGG16_accuracy.png](Results/VGG16_accuracy.png) : VGG16 build from scratch Accuracy Plot
+- [VGG16_loss.png](Results/VGG16_loss.png) : VGG16 build from scratch Loss Plot
+- [score_table.png](Results/score_table.png) : Metric Evaluation scores for 4 models
 
 
 
@@ -94,12 +95,18 @@ Since the dataset is so large, even a zip file can not be uploaded to Github. Pl
 |    ├── VGG16_TransferLearning.ipynb
 |
 |__ Results
-|    ├── ResNet50_Transfer.ipynb
-|    ├── VGG16_TransferLearning.ipynb
-|    ├── ResNet50_Transfer.ipynb
-|    ├── VGG16_TransferLearning.ipynb
-|    ├── ResNet50_Transfer.ipynb
-|    ├── VGG16_TransferLearning.ipynb
+|    ├── Res50_T_a.png
+|    ├── Res50_T_l.png
+|    ├── Res50_S_acc.png.ipynb
+|    ├── Res50_S_loss.png.ipynb
+|    ├── V16_tran_acurracy.png
+|    ├── V16_tran_loss.png
+|    ├── Res50_S_loss.png.ipynb
+|    ├── V16_tran_acurracy.png
+|    ├── V16_tran_loss.png
+|    ├── VGG16_accuracy.png
+|    ├── VGG16_loss.png
+|    ├── score_table.png
 |
 ├── README.md
 ├── requirements.txt
