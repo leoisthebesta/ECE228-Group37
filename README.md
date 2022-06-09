@@ -3,7 +3,7 @@
 ---
 ## Table of Content
 - [Introduction](#introduction)
-- [Methodology](#methodology)
+- [Methodology and Results](#methodologyadnresults)
 - [Data Source](#datasource)
 - [Code](#code)
 - [File Structure](#filestructure)
@@ -18,7 +18,7 @@ There are many types of the skin lesion. Some of the them are not fatal and can 
 
 
 
-<a name="methodology"></a>
+<a name="methodologyandresults"></a>
 ## Methodology
 
 大苏打实打实
