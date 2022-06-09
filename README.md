@@ -98,23 +98,11 @@ Since the dataset is so large, even a zip file can not be uploaded to Github. Pl
 <a name="requirepackages"></a>
 ## Require Packages
 
-- Python >=3.7
-- dash
-- dash-renderer
-- dash-core-components
-- dash-html-components
-- dash-table
-- plotly
-- numpy
-- pandas
-- scipy
-- matplotlib
-- seaborn
-- xgboost
+- Python >=3.8
+- tensorflow >=2.0
 - scikit-learn
-- coverage
-- pytest
-- joblib
+
+
 
 Run pip install -r requirements.txt to set up your computer. 
 
