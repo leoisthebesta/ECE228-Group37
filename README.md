@@ -1,4 +1,4 @@
-# ECE228-Group37
+# ECE228-Group37 Skin Lesion Classification
 ![dashboard_preview](/nb.jpeg)
 ---
 ## Table of Content
