@@ -25,7 +25,7 @@ In this project, we mainly used Convolution Neural Network models:
 - ResNet50: Transfer Learning, built from strach
 
 All the results we got is showing below:
-
+![result](/score_table.png)
 
 
 <a name="datasource"></a>
