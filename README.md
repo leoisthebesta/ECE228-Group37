@@ -134,7 +134,7 @@ Run pip install -r requirements.txt to set up your computer.
 
 <a name="contributors"></a>
 ## Contributors
-![contributors](/Contributor.jpeg)
+![contributors](/Results/Contributor.jpeg)
 This project finished by two members: Xingtong Yang(left) and Zhiyin Liu (right)
 
 
