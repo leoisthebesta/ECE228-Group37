@@ -3,7 +3,7 @@
 ---
 ## Table of Content
 - [Introduction](#introduction)
-- [Methodology and Results](#methodologyadnresults)
+- [Methodology and Results](#methodologyandresults)
 - [Data Source](#datasource)
 - [Code](#code)
 - [File Structure](#filestructure)
