@@ -5,7 +5,7 @@
 - [Introduction](#introduction)
 - [Methodology and Results](#methodologyandresults)
 - [Data Source](#datasource)
-- [Code](#code)
+- [Code and Result Plots](#code)
 - [File Structure](#filestructure)
 - [Require Packages](#requirepackages)
 - [How to Run Codes to Generate Same Result](#run)
