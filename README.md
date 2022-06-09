@@ -54,8 +54,8 @@ The dataset can be found on:
 ## Code
 
 ### Data Analysis
-- [pre_processing.py](../master/src/pre_processing.py) : Data loading, cleaning and pre-processing
-- [analysis.py](../master/visualization/analysis.py) : Analysis tools, plots and visualizations
+- [Pre_processing.py](../main/Data Pre-processing/Pre_processing.ipynb) : Data loading, cleaning and pre-processing
+- [Generate Image for Poster .ipynb](../main/Data Pre-processing/Generate Image for Poster .ipynb) : Analysis tools, plots and visualizations
 ### Feature Extraction
 - [feature_extraction.py](src/feature_extraction.py) : Feature extraction and preparing the data for ML models
 ### Prediction
