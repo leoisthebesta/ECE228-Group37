@@ -66,8 +66,8 @@ Since the dataset is so large, even a zip file can not be uploaded to Github. Pl
 ### Result Plots
 - [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : ResNet50 Transfer Learning Accuracy Plot
 - [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : ResNet50 Transfer Learning Loss Plot
-- [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : ResNet50 build from scratch Accuracy Plot
-- [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : ResNet50 build from scratch Loss Plot
+- [Res50_S_acc.png](Results/Res50_S_acc.png) : ResNet50 build from scratch Accuracy Plot
+- [Res50_S_loss.png](Results/Res50_S_loss.png) : ResNet50 build from scratch Loss Plot
 - [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : VGG16 Transfer Learning Accuracy Plot
 - [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : VGG16 Transfer Learning Loss Plot
 - [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : VGG16 build from scratch Accuracy Plot
