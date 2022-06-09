@@ -15,6 +15,8 @@
 <a name="introduction"></a>
 ## Introduction
 There are many types of the skin lesion. Some of the them are not fatal and can be cured with appropriate treatment. However, some of them are actually cancer and they are fatal. Therefore, how to correctly and quickly find out the type of the skin lesion is very important. From this inspiration, we are interested in exploring the use of machine learning algorithms to aid medical professionals in the diagnosis skin lesions. To help explore the usage of the machine learning models, we used HAM10000 dataset from Harvard which it contains seven types of the skin lesions. This project is referencing to the paper: Soft-Attention Improves Skin Cancer Classification Performance. In this github, we would show how to pre-processed raw dataset and how we use VGG16, ResNet50 with transfer learning and from scratch.
+The report can be found here: 
+[report](/Results/ECE228_Final_Report.pdf)
 
 
 
