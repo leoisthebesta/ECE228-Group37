@@ -1,9 +1,9 @@
-# ECE228-Group37
-
+# ECE228-Group37 Skin Lesion Classification
+![dashboard_preview](/nb.jpeg)
 ---
 ## Table of Content
 - [Introduction](#introduction)
-- [Methodology](#methodology)
+- [Methodology and Results](#methodologyandresults)
 - [Data Source](#datasource)
 - [Code](#code)
 - [File Structure](#filestructure)
@@ -18,17 +18,20 @@ There are many types of the skin lesion. Some of the them are not fatal and can 
 
 
 
-<a name="methodology"></a>
-## Methodology
+<a name="methodologyandresults"></a>
+## Methodology and Results
+In this project, we mainly used Convolution Neural Network models:
+- VGG16: Transfer Learning, built from strach
+- ResNet50: Transfer Learning, built from strach
 
-大苏打实打实
+All the results we got is showing below:
 
 
 
 <a name="datasource"></a>
 ## Data Scource
 
-实打实打算
+
 
 
 
