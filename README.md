@@ -5,12 +5,11 @@
 - [Introduction](#introduction)
 - [Methodology and Results](#methodologyandresults)
 - [Data Source](#datasource)
-- [Code & Result Plots](#code)
+- [Code](#code)
 - [File Structure](#filestructure)
 - [Require Packages](#requirepackages)
 - [How to Run Codes to Generate Same Result](#run)
 - [Contributors](#contributors)
-
 
 
 <a name="introduction"></a>
@@ -135,5 +134,7 @@ Run pip install -r requirements.txt to set up your computer.
 
 <a name="contributors"></a>
 ## Contributors
+![contributors](/Contributor.jpeg)
+This project finished by two members: Xingtong Yang(left) and Zhiyin Liu (right)
 
 
