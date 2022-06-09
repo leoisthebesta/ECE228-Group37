@@ -19,7 +19,7 @@ There are many types of the skin lesion. Some of the them are not fatal and can 
 
 
 <a name="methodologyandresults"></a>
-## Methodology
+## Methodology and Results
 
 大苏打实打实
 
