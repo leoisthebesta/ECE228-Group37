@@ -110,7 +110,7 @@ Since the dataset is so large, even a zip file can not be uploaded to Github. Pl
 Run pip install -r requirements.txt to set up your computer. 
 
 <a name="run"></a>
-## Contributors
+## How to Run Codes to Generate Same Result 
 1. Download the dataset from [dataset link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T).
 2. Install all required packages.
 3. Use [Pre_processing.py](../main/Data%20Pre-processing/Pre_processing.ipynb) to generate the same training&testing dataset with each one has 7 sub-directories names as each skin lession. Change the all path correspondingly, the code given is using the path locally! This is very important, please make it the same way as described! Otherwise, all codes won't run well!
