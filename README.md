@@ -93,6 +93,9 @@ Since the dataset is so large, even a zip file can not be uploaded to Github. Pl
 |    ├── VGG16_TransferLearning.ipynb
 |
 ├── README.md
+├── requirements.txt
+
+
 ```
 
 <a name="requirepackages"></a>
