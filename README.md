@@ -26,19 +26,19 @@ In this project, we mainly used Convolution Neural Network models:
 - ResNet50: Transfer Learning, built from strach
 
 All the results we got is showing below:
-![result](/score_table.png)
+![result](/Results/score_table.png)
 
 
 <a name="datasource"></a>
 ## Data Scource
 We used the HAM10000 dataset which contains seven different types of the skin lesion, which are:
 - Actinic keratoses (akiec)
-- basal cell carcinoma (bcc)
-- benign keratosis (bkl)
-- dermatofibroma (df)
-- melanoma (mel)
-- melanocytic nevus (nv)
-- vascular lesions (vasc)
+- Basal cell carcinoma (bcc)
+- Benign keratosis (bkl)
+- Dermatofibroma (df)
+- Melanoma (mel)
+- Melanocytic nevus (nv)
+- Vascular lesions (vasc)
 
 We mainly used dataset:
 - HAM10000_images_part_1.zip
