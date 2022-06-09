@@ -26,19 +26,19 @@ In this project, we mainly used Convolution Neural Network models:
 - ResNet50: Transfer Learning, built from strach
 
 All the results we got is showing below:
-![result](/Results/score_table.png)
+![result](/score_table.png)
 
 
 <a name="datasource"></a>
 ## Data Scource
 We used the HAM10000 dataset which contains seven different types of the skin lesion, which are:
 - Actinic keratoses (akiec)
-- Basal cell carcinoma (bcc)
-- Benign keratosis (bkl)
-- Dermatofibroma (df)
-- Melanoma (mel)
-- Melanocytic nevus (nv)
-- Vascular lesions (vasc)
+- basal cell carcinoma (bcc)
+- benign keratosis (bkl)
+- dermatofibroma (df)
+- melanoma (mel)
+- melanocytic nevus (nv)
+- vascular lesions (vasc)
 
 We mainly used dataset:
 - HAM10000_images_part_1.zip
@@ -52,7 +52,7 @@ Since the dataset is so large, even a zip file can not be uploaded to Github. Pl
 
 
 <a name="code"></a>
-## Code
+## Code and Result Plots
 
 ### Data Analysis
 - [Pre_processing.py](../main/Data%20Pre-processing/Pre_processing.ipynb) : Dataset geneartion of two Zips from [dataset link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
@@ -63,6 +63,15 @@ Since the dataset is so large, even a zip file can not be uploaded to Github. Pl
 ### Transfer Learning Models
 - [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : ResNet50 Transfer Learning
 - [VGG16_TransferLearning.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : VGG16 Transfer Learning
+### Result Plots
+- [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : ResNet50 Transfer Learning Accuracy Plot
+- [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : ResNet50 Transfer Learning Loss Plot
+- [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : ResNet50 build from scratch Accuracy Plot
+- [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : ResNet50 build from scratch Loss Plot
+- [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : VGG16 Transfer Learning Accuracy Plot
+- [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : VGG16 Transfer Learning Loss Plot
+- [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : VGG16 build from scratch Accuracy Plot
+- [ResNet50_Transfer.ipynb](Transfer%20Learning/ResNet50_Transfer.ipynb) : VGG16 build from scratch Loss Plot
 
 
 
