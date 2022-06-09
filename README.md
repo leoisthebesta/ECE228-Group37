@@ -99,7 +99,7 @@ Since the dataset is so large, even a zip file can not be uploaded to Github. Pl
 ## Require Packages
 
 - Python >=3.8
-- tensorflow >=2.0
+- tensorflow 
 - scikit-learn
 
 
