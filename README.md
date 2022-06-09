@@ -1,5 +1,5 @@
 # ECE228-Group37
-
+![dashboard_preview](/nb.jpeg)
 ---
 ## Table of Content
 - [Introduction](#introduction)
