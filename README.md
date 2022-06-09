@@ -122,7 +122,7 @@ Run pip install -r requirements.txt to set up your computer.
 ## Contributors
 1. Download the dataset from [dataset link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T).
 2. Install all required packages.
-3. Use [Pre_processing.py](../main/Data%20Pre-processing/Pre_processing.ipynb) to generate the same training&testing dataset with each one has 7 sub-directories names as each skin lession. This is very important, please make it the same way as described! Otherwise, all code won't run well!
+3. Use [Pre_processing.py](../main/Data%20Pre-processing/Pre_processing.ipynb) to generate the same training&testing dataset with each one has 7 sub-directories names as each skin lession. Change the all path correspondingly, the code given is using the path locally! This is very important, please make it the same way as described! Otherwise, all codes won't run well!
 5. Try 4 different models and generate the result. You can compare it with all figures we have, there will be a small difference. If a image corrupted, please find its path and delete it, otherwisem the model will stop learn. Image corruption happens sometimes when unzipping!
 
 
