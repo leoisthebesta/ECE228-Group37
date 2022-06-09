@@ -56,8 +56,9 @@ The dataset can be found on:
 ### Data Analysis
 - [Pre_processing.py](../main/Data%20Pre-processing/Pre_processing.ipynb) : Data loading, cleaning and pre-processing
 - [Generate Image for Poster .ipynb](../main/Data%20Pre-processing/Generate%20Image%20for%20Poster%20.ipynb) : Analysis tools, plots and visualizations
-### Feature Extraction
-- [feature_extraction.py](src/feature_extraction.py) : Feature extraction and preparing the data for ML models
+### Models Build from Scratch
+- [ResNet50_Scratch.ipynb](Build%20From%20Scratch/ResNet50_Scratch.ipynb) : Feature extraction and preparing the data for ML models
+- [VGG16.ipynb](Build%20From%20Scratch/VGG16.ipynb) : Feature extraction and preparing the data for ML models
 ### Prediction
 - [prediction.py](src/prediction.py) : Prediction on the test data using Logistic Reg., XGBoost, and Random Forest models
 ### Dashboard
